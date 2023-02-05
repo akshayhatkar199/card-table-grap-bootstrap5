@@ -1,0 +1,36 @@
+.card{
+    margin-bottom: 28px;
+    background-color: #FAF8FF;
+    /* box-shadow: 2px 2px 4px 0px #938282;  */
+}
+.bg-card-shadow{
+    box-shadow: 2px 2px 4px 0px #938282; 
+}
+.icons-card{
+    font-size: 20px;
+    /* padding: 3px; */
+    color: #f8f8f8
+}
+.teble-card{
+    margin-bottom: 28px;
+    background-color: #f7f7f7;
+}
+.card-text span{
+    font-weight: bold;
+    color: #da2509
+}
+.card-button{
+    text-decoration-line: none;
+}
+.icon-bg{
+    background-color: #6095a8;
+    padding: 10px;
+    float: right;
+    height: 41px;
+    text-align: center;
+    width: 45px;
+    border-radius: 50%;
+}
+.card:hover{
+    transform: scale(1.05,1.05);
+}
